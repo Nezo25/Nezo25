@@ -24,16 +24,6 @@ Atualmente focado no ecossistema **Spring Boot**, construindo APIs robustas, esc
 | **AuraBank API** | Modelagem de sistema bancário com foco em transações seguras. | Java, Spring, JPA |
 | **OrionWMS** | Sistema de gerenciamento de armazém e logística. | Java, Spring, Docker |
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnSo340&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnSo340&layout=compact&theme=tokyonight"/>
-</div>
-
----
 
 ### 📫 Vamos nos conectar?
 
