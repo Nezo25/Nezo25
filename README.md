@@ -8,8 +8,8 @@ Atualmente focado no ecossistema **Spring Boot**, construindo APIs robustas, esc
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Java (17/21/25)
-- **Frameworks:** Spring Boot (Data JPA, Security, Validation)
+- **Linguagens:** Java (17/21/25) , C#
+- **Frameworks:** Spring Boot (Data JPA, Security, Validation) , .Net
 - **Banco de Dados:** MySQL, PostgreSQL, Flyway (Migrations)
 - **Infraestrutura:** Docker, Docker Compose
 - **Ferramentas:** IntelliJ IDEA, Maven, Postman, Git/GitHub
