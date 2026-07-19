@@ -12,7 +12,8 @@ Atualmente focado no ecossistema **Spring Boot**, construindo APIs robustas, esc
 - **Frameworks:** Spring Boot (Data JPA, Security, Validation) , .Net
 - **Banco de Dados:** MySQL, PostgreSQL, Flyway (Migrations)
 - **Infraestrutura:** Docker, Docker Compose
-- **Ferramentas:** IntelliJ IDEA, Maven, Postman, Git/GitHub
+- **Ferramentas:** IntelliJ IDEA, Maven, Insominia
+- , Git/GitHub
 
 ---
 
