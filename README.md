@@ -24,10 +24,10 @@ Tenho experiência prática na criação de MVPs ponta a ponta e na modelagem de
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| **LexControl API** | Sistema de controle financeiro exclusivo para gestão de honorários, processos e caixa de escritórios de advocacia. | Java, Spring Boot, MySQL, Flyway |
-| **Evente-Set** | Aplicativo voltado para o gerenciamento ágil de prestadores de serviço e freelancers. | Java, Spring Boot, React |
-| **Orion WMS** | Sistema de gerenciamento de armazém focado na otimização de processos logísticos como picking, packing e controle de estoque. | Java, Spring Boot, MySQL, Docker |
-| **AuraBank API** | Modelagem de sistema bancário com foco em rigor técnico, segurança (ISO 27001) e consistência de transações financeiras. | Java, Spring Boot, JPA, MySQL |
+| **LexControl API** | Sistema de controle financeiro exclusivo para gestão de honorários, processos e caixa de escritórios de advocacia. | Java, Spring Boot, MySQL, Flyway e React |
+| **Evente-Set** | Aplicativo voltado para o gerenciamento ágil de prestadores de serviço e freelancers. | Java, Spring Boot, MySQL, Docker e React |
+| **Orion WMS** | Sistema de gerenciamento de armazém focado na otimização de processos logísticos como picking, packing e controle de estoque. | Java, Spring Boot, MySQL e Docker |
+| **AuraBank API** | Modelagem de sistema bancário com foco em rigor técnico, segurança (ISO 27001) e consistência de transações financeiras. | Java, Spring Boot, JPA e MySQL |
 
 ---
 
