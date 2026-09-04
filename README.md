@@ -2,7 +2,7 @@
 
 ### ☕ Desenvolvedor FullStack | 🎓 Estudante de Gestão da TI 
 
-Atualmente focado no ecossistema **Java (Spring Boot)** e **React**, construindo aplicações robustas, seguras e escaláveis. Como estudante do 5º semestre de Gestão da Tecnologia da Informação (Fatec), acredito que um bom código vai além da tela: ele exige arquitetura limpa (SOLID, Clean Code, MVC) e alinhamento com frameworks de governança e segurança, como COBIT 2019 e ISO 27001. 
+Atualmente focado no ecossistema **Java (Spring Boot)** e **React**, construindo aplicações robustas, seguras e escaláveis. Como estudante do 6º semestre de Gestão da Tecnologia da Informação (Fatec), acredito que um bom código vai além da tela: ele exige arquitetura limpa (SOLID, Clean Code, MVC) e alinhamento com frameworks de governança e segurança, como COBIT 2019 e ISO 27001. 
 
 Tenho experiência prática na criação de MVPs ponta a ponta e na modelagem de sistemas complexos, unindo a visão de negócios com o rigor técnico.
 
