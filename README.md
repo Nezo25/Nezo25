@@ -1,18 +1,22 @@
 # Olá, eu sou o Enzo! 👋
 
-### ☕ Desenvolvedor Backend Java | 🎓 Estudante de Gestão da TI
+### ☕ Desenvolvedor FullStack | 🎓 Estudante de Gestão da TI 
 
-Atualmente focado no ecossistema **Spring Boot**, construindo APIs robustas, escaláveis e seguras. Acredito que a tecnologia deve andar junto com a eficiência de processos e boa gestão.
+Atualmente focado no ecossistema **Java (Spring Boot)** e **React**, construindo aplicações robustas, seguras e escaláveis. Como estudante do 5º semestre de Gestão da Tecnologia da Informação (Fatec), acredito que um bom código vai além da tela: ele exige arquitetura limpa (SOLID, Clean Code, MVC) e alinhamento com frameworks de governança e segurança, como COBIT 2019 e ISO 27001. 
+
+Tenho experiência prática na criação de MVPs ponta a ponta e na modelagem de sistemas complexos, unindo a visão de negócios com o rigor técnico.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Java (17/21/25) , C#
-- **Frameworks:** Spring Boot (Data JPA, Security, Validation) , .Net
-- **Banco de Dados:** MySQL, PostgreSQL, Flyway (Migrations)
+- **Linguagens:** Java (17 a 25), JavaScript/TypeScript
+- **Front-end:** React, HTML, CSS
+- **Back-end:** Spring Boot 3 (Data JPA, Security, Validation), REST API
+- **Banco de Dados:** MySQL, Flyway (Migrations)
+- **Boas Práticas & Arquitetura:** MVC, SOLID, Clean Code, Design Patterns
 - **Infraestrutura:** Docker, Docker Compose
-- **Ferramentas:** IntelliJ IDEA, Maven, Insominia, Git/GitHub
+- **Ferramentas:** IntelliJ IDEA, Maven, Insomnia, Git/GitHub
 
 ---
 
@@ -20,10 +24,12 @@ Atualmente focado no ecossistema **Spring Boot**, construindo APIs robustas, esc
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| **LexControl API** | Sistema para gestão de escritórios de advocacia e controle financeiro. | Java, Spring, MySQL, Flyway |
-| **AuraBank API** | Modelagem de sistema bancário com foco em transações seguras. | Java, Spring, JPA |
-| **OrionWMS** | Sistema de gerenciamento de armazém e logística. | Java, Spring, Docker |
+| **LexControl API** | Sistema de controle financeiro exclusivo para gestão de honorários, processos e caixa de escritórios de advocacia. | Java, Spring Boot, MySQL, Flyway |
+| **Evente-Set** | Aplicativo voltado para o gerenciamento ágil de prestadores de serviço e freelancers. | Java, Spring Boot, React |
+| **Orion WMS** | Sistema de gerenciamento de armazém focado na otimização de processos logísticos como picking, packing e controle de estoque. | Java, Spring Boot, MySQL, Docker |
+| **AuraBank API** | Modelagem de sistema bancário com foco em rigor técnico, segurança (ISO 27001) e consistência de transações financeiras. | Java, Spring Boot, JPA, MySQL |
 
+---
 
 ### 📫 Vamos nos conectar?
 
